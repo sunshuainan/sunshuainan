@@ -1,0 +1,134 @@
+.register{
+    width: 100%;
+    background: #fafafa;
+    /*margin-top: 54px;*/
+    padding: 54px 0 120px 0;
+
+}
+.register_content{
+    width: 1200px;
+    margin: 0 auto;
+    border: 1px solid #e6e6e6;
+    background: #ffffff;
+    padding-bottom: 108px;
+}
+.register_content_list h2{
+    text-align: center;
+    font-size: 26px;
+    /*margin-top: 38px;*/
+    padding: 38px 0 56px 0;
+}
+.register_content_list>li>div{
+    float: left;
+}
+.register_content_list>li>div:nth-of-type(1){
+    /*font-size: 16px;*/
+    text-align: center;
+    padding-top: 12px;
+    color: #adadad;
+}
+.register_content_list>li>div:nth-of-type(3){
+    /*font-size: 12px;*/
+    padding-left: 20px;
+    padding-top: 8px;
+    color: red;
+}
+.register_content_list>li{
+    margin-top: 20px;
+}
+.register_content_list .clearmargin{
+    margin-top: 0;
+}
+.register_content_list>li>div:nth-of-type(2){
+    width: 370px;
+    margin-left: 14px;
+}
+.register_content_list>li>div:nth-of-type(3)>img{
+    margin-right: 10px;
+}
+.register_content_list>li>div:nth-of-type(1){
+    width: 384px;
+    text-align: right;
+}
+.register_content_list_input{
+    width: 358px;
+    height:40px;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    padding-left: 12px;
+    color: #bcbab5;
+}
+.register_content_list_input_ma{
+    width: 162px;
+    height:40px;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    padding-left: 12px;
+    color: #bcbab5;
+    float: left;
+}
+.register_content_list_x{
+    position: relative;
+    top: 5px;
+}
+.x{
+    margin-right: 6px;
+}
+.register_content_list_input_back{
+    background: url("../img/b.png") no-repeat 330px 14px;
+}
+.yanzheng{
+    width: 170px;
+    height: 42px;
+    text-align: center;
+    line-height: 42px;
+    float: right;
+    background: #f4f4f4;
+    border-radius: 3px;
+    font-size: 14px;
+    color: #5a5a5a;
+}
+.yanzhengma{
+    float: left;
+    margin-left: 22px;
+}
+.yanzhengma_a{
+    float: right;
+    padding-top: 22px;
+    margin-right: 12px;
+}
+.submit{
+    width: 370px;
+    height: 46px;
+    background: #2288f6;
+    font-size: 16px;
+    color: #fff;
+    margin: 0 auto;
+}
+.register_content_list_submit>span:nth-of-type(1){
+    float: left;
+}
+.register_content_list_submit>span:nth-of-type(1) a{
+    border-bottom: 1px solid;
+}
+.register_content_list_submit>span:nth-of-type(2){
+    float: right;
+}
+.register_content_list_submit_li{
+    margin-top: 8px !important;
+}
+.register_top_logo{
+    width: 1200px;
+    margin: 0 auto;
+    height: 100px;
+}
+.registerlogo{
+    width: 224px;
+    height: 62px;
+    background: url("../img/registerlogo.png") no-repeat;
+    margin-top: 18px;
+    float: left;
+}
+.register_top{
+    border-bottom: 2px solid #d9d9d9;
+}

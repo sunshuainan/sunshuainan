@@ -1,0 +1,14 @@
+.clearfix:after{
+	display: block;
+	clear: both;
+	content: '';
+}
+.first{
+    float: left;
+    width: 392px;
+    text-align: right;
+    padding-right: 24px;
+    font-size: 16px;
+}
+.nav ul>li>a:hover{
+	color:#2288f6;

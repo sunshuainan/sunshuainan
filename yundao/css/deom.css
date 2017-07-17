@@ -1,0 +1,236 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.banner {
+  position: relative; }
+  .banner img {
+    width: 100%;
+    border: none; }
+  .banner span {
+    position: fixed;
+    right: 0;
+    top: 674px;
+    float: left; }
+
+.nav {
+  background: #fafafa; }
+  .nav .clearfix:after {
+    content: '';
+    display: block;
+    clear: both; }
+  .nav .header {
+    width: 1002px;
+    margin: 0 auto; }
+    .nav .header .left, .nav .header .right {
+      width: 417px;
+      height: 1px;
+      background: #ccc;
+      margin-top: 80px; }
+    .nav .header h2 {
+      float: left;
+      font-size: 24px;
+      padding: 64px 20px 0 20px;
+      color: #333; }
+  .nav .header_list {
+    width: 1002px;
+    margin: 0 auto; }
+    .nav .header_list .content {
+      font-size: 14px;
+      color: #666;
+      text-align: center;
+      margin-top: 10px; }
+    .nav .header_list .list {
+      margin-top: 14px; }
+    .nav .header_list .content_one {
+      font-size: 14px;
+      color: #666;
+      text-align: center;
+      padding-top: 14px; }
+  .nav .slide {
+    width: 1054px;
+    margin: 0 auto;
+    padding-bottom: 60px; }
+    .nav .slide .ul {
+      list-style: none;
+      padding-top: 50px; }
+      .nav .slide .ul .ul_li1 {
+        margin-left: 0; }
+      .nav .slide .ul li {
+        width: 318px;
+        height: 492px;
+        border: 1px solid #e7e8e9;
+        float: left;
+        margin-left: 46px; }
+        .nav .slide .ul li img {
+          margin-top: 40px;
+          margin-left: 34px; }
+        .nav .slide .ul li .img1 {
+          margin-left: 50px;
+          margin-top: 32px; }
+        .nav .slide .ul li .img2 {
+          margin-left: 34px;
+          margin-top: 42px; }
+        .nav .slide .ul li h3 {
+          font-size: 18px;
+          padding: 46px 0 20px 0;
+          color: #363636;
+          text-align: center; }
+        .nav .slide .ul li p {
+          font-size: 10.5px;
+          line-height: 20px;
+          color: #696969;
+          width: 238px;
+          margin-left: 40px; }
+        .nav .slide .ul li .div {
+          width: 150px;
+          height: 38px;
+          font-size: 14px;
+          line-height: 38px;
+          text-align: center;
+          border-radius: 2px;
+          background: #FF9411;
+          color: #fff;
+          margin-top: 40px;
+          margin-left: 84px;
+          text-align: center; }
+        .nav .slide .ul li .div1 {
+          width: 150px;
+          height: 38px;
+          font-size: 14px;
+          line-height: 38px;
+          text-align: center;
+          border-radius: 2px;
+          border: 1px solid #FF9411;
+          color: #FF9411;
+          margin-top: 40px;
+          margin-left: 84px;
+          text-align: center; }
+  .nav .nav_middle {
+    background: #fff;
+    padding-bottom: 60px;
+    position: relative; }
+    .nav .nav_middle .header {
+      width: 1002px;
+      margin: 0 auto; }
+      .nav .nav_middle .header .left, .nav .nav_middle .header .right {
+        width: 420px;
+        height: 1px;
+        background: #ccc;
+        margin-top: 80px; }
+      .nav .nav_middle .header h2 {
+        float: left;
+        font-size: 24px;
+        padding: 64px 20px 0 34px;
+        color: #333; }
+    .nav .nav_middle .header_list {
+      width: 1002px;
+      margin: 0 auto; }
+      .nav .nav_middle .header_list .content {
+        font-size: 14px;
+        color: #666;
+        text-align: center;
+        margin-top: 10px;
+        line-height: 22px; }
+    .nav .nav_middle .mask_left {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      float: left;
+      text-align: center;
+      background: url(../img/left.png) no-repeat #e6e6e6 20px 15px;
+      position: absolute;
+      bottom: 187px;
+      left: 80px; }
+    .nav .nav_middle .mask_right {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      float: right;
+      text-align: center;
+      background: url(../img/right.png) no-repeat #58A9EF 25px 15px;
+      position: absolute;
+      bottom: 187px;
+      right: 80px; }
+    .nav .nav_middle .mask {
+      width: 1054px;
+      margin: 0 auto;
+      margin-top: 50px;
+      padding-bottom: 210px;
+      position: relative;
+      overflow: hidden;
+      margin-bottom: 60px; }
+    .nav .nav_middle .mask_ul {
+      list-style: none;
+      width: 1054px;
+      height: 210px;
+      float: left;
+      position: absolute; }
+      .nav .nav_middle .mask_ul li {
+        float: left;
+        width: 324px;
+        height: 210px;
+        padding-left: 40px;
+        position: relative; }
+        .nav .nav_middle .mask_ul li span {
+          width: 72px;
+          height: 72px;
+          position: absolute;
+          top: 66px;
+          left: 160px;
+          display: none; }
+          .nav .nav_middle .mask_ul li span img {
+            width: 100%; }
+  .nav .nav_bottom {
+    background: #fafafa; }
+    .nav .nav_bottom .header {
+      width: 1002px;
+      margin: 0 auto; }
+      .nav .nav_bottom .header .left, .nav .nav_bottom .header .right {
+        width: 420px;
+        height: 1px;
+        background: #ccc;
+        margin-top: 80px; }
+      .nav .nav_bottom .header h2 {
+        float: left;
+        font-size: 24px;
+        padding: 64px 20px 0 34px;
+        color: #333; }
+    .nav .nav_bottom .header_list {
+      width: 1002px;
+      margin: 0 auto; }
+      .nav .nav_bottom .header_list .content {
+        font-size: 14px;
+        color: #666;
+        text-align: center;
+        margin-top: 10px;
+        line-height: 22px; }
+    .nav .nav_bottom .footer {
+      width: 1106px;
+      margin: 0 auto; }
+      .nav .nav_bottom .footer .footer_ul {
+        list-style: none;
+        padding-bottom: 200px;
+        margin-top: 50px;
+        margin-left: 20px; }
+        .nav .nav_bottom .footer .footer_ul .li2 {
+          border-top: 1px dashed #ccc;
+          border-bottom: 1px dashed #ccc; }
+        .nav .nav_bottom .footer .footer_ul .li3 {
+          border-left: 1px dashed #ccc;
+          border-right: 1px dashed #ccc; }
+        .nav .nav_bottom .footer .footer_ul li {
+          float: left;
+          text-align: center;
+          width: 208px;
+          height: 80px;
+          line-height: 80px; }
+          .nav .nav_bottom .footer .footer_ul li img {
+            line-height: 80px;
+            padding-top: 20px; }
+          .nav .nav_bottom .footer .footer_ul li .li4 {
+            padding-top: 14px; }
+          .nav .nav_bottom .footer .footer_ul li .img {
+            padding-top: 12px; }
+
+/*# sourceMappingURL=deom.css.map */

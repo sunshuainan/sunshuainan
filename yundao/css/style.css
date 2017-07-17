@@ -1,0 +1,192 @@
+.banner {
+  width: 100%;
+  position: relative; }
+  .banner img {
+    width: 100%; }
+  .banner .banner_now {
+    position: absolute;
+    width: 240px;
+    height: 60px;
+    bottom: 66px;
+    left: 41%;
+    background: #4b6c85;
+    border-radius: 5%;
+    text-align: center;
+    line-height: 60px;
+    box-shadow: #2c495e 0 6px;
+    color: #fff;
+    font-size: 18px; }
+
+.content_fang {
+  width: 1200px;
+  margin: 64px auto; }
+  .content_fang .content_top {
+    padding: 0 108px; }
+    .content_fang .content_top .line1 {
+      float: left;
+      width: 433px;
+      height: 1px;
+      background: #ccc;
+      margin-top: 12px; }
+    .content_fang .content_top .line2 {
+      float: left;
+      width: 431px;
+      height: 1px;
+      background: #ccc;
+      margin-top: 12px; }
+    .content_fang .content_top .text {
+      float: left;
+      text-align: center;
+      margin: 0 -10px; }
+      .content_fang .content_top .text h2 {
+        font-size: 18px;
+        font-weight: bold; }
+      .content_fang .content_top .text p {
+        margin-top: 10px;
+        font-size: 10px; }
+  .content_fang .content_bottom {
+    width: 1000px;
+    padding: 0 100px;
+    margin-top: 50px;
+    margin-bottom: 100px; }
+    .content_fang .content_bottom li {
+      float: left;
+      width: 200px;
+      text-align: center; }
+      .content_fang .content_bottom li img {
+        width: 130px;
+        height: 130px; }
+      .content_fang .content_bottom li .descri {
+        margin-top: 22px;
+        font-size: 24px;
+        color: #333;
+        margin-bottom: 11px; }
+      .content_fang .content_bottom li .xiang {
+        display: block;
+        font-size: 14px;
+        color: #999;
+        text-align: left; }
+    .content_fang .content_bottom .zhong {
+      margin-left: 200px;
+      margin-right: 200px; }
+
+.back {
+  width: 100%;
+  background: #fafafa;
+  padding-top: 64px;
+  padding-bottom: 90px; }
+  .back .content_fen {
+    width: 1200px;
+    margin: 0 auto; }
+    .back .content_fen .content_top2 {
+      padding: 0 100px; }
+      .back .content_fen .content_top2 .line1 {
+        float: left;
+        width: 433px;
+        height: 1px;
+        background: #ccc;
+        margin-top: 12px; }
+      .back .content_fen .content_top2 .line2 {
+        float: left;
+        width: 431px;
+        height: 1px;
+        background: #ccc;
+        margin-top: 12px; }
+      .back .content_fen .content_top2 .text {
+        float: left;
+        text-align: center;
+        margin: 0 -10px; }
+        .back .content_fen .content_top2 .text h2 {
+          font-size: 18px;
+          font-weight: bold; }
+        .back .content_fen .content_top2 .text p {
+          margin-top: 10px;
+          font-size: 10px; }
+    .back .content_fen .content_bottom2 {
+      width: 1200px;
+      margin: 0 auto;
+      margin-top: 50px; }
+
+.content_jing {
+  width: 1200px;
+  margin: 0 auto; }
+  .content_jing .content_top3 {
+    margin-top: 64px;
+    margin-bottom: 50px;
+    padding: 0 108px; }
+    .content_jing .content_top3 .line1 {
+      float: left;
+      width: 433px;
+      height: 1px;
+      background: #ccc;
+      margin-top: 12px; }
+    .content_jing .content_top3 .line2 {
+      float: left;
+      width: 431px;
+      height: 1px;
+      background: #ccc;
+      margin-top: 12px; }
+    .content_jing .content_top3 .text {
+      float: left;
+      text-align: center;
+      margin: 0 -10px; }
+      .content_jing .content_top3 .text h2 {
+        font-size: 18px;
+        font-weight: bold; }
+      .content_jing .content_top3 .text p {
+        margin-top: 10px;
+        font-size: 10px; }
+  .content_jing .content_bottom3 {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 45px;
+    padding-bottom: 97px; }
+    .content_jing .content_bottom3 li {
+      float: left; }
+      .content_jing .content_bottom3 li div {
+        margin-right: 2px;
+        margin-bottom: 2px;
+        width: 210px;
+        height: 80px;
+        text-align: center;
+        border-right: 2px dotted #ccc;
+        border-bottom: 2px dotted #ccc; }
+      .content_jing .content_bottom3 li .border {
+        border-right: none; }
+      .content_jing .content_bottom3 li .border2 {
+        border-bottom: none; }
+      .content_jing .content_bottom3 li img {
+        margin-top: 16px; }
+
+.experience {
+  width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 200px; }
+  .experience .click .rela {
+    width: 200px;
+    height: 56px;
+    border: 2px solid orange;
+    border-radius: 5%;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 56px;
+    color: orange;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative; }
+  .experience .abso1 {
+    position: absolute;
+    left: 168px;
+    top: -15px;
+    width: 30px;
+    height: 30px;
+    background: #ffd6ab;
+    border-radius: 50%; }
+  .experience .abso2 {
+    position: absolute;
+    left: 176px;
+    top: -8px;
+    width: 15px;
+    height: 15px;
+    background: #fe982d;
+    border-radius: 50%; }

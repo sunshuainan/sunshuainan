@@ -1,0 +1,103 @@
+.header {
+  width: 100%;
+  border-bottom: 2px solid #d9d9d9; }
+  .header .nav {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 19px 0; }
+
+.content {
+  width: 100%;
+  background: #fafafa;
+  padding-top: 52px;
+  padding-bottom: 120px; }
+  .content .block {
+    width: 1200px;
+    margin: 0 auto;
+    border: 1px solid #e6e6e6;
+    padding-top: 39px;
+    background: #fff; }
+    .content .block h2 {
+      text-align: center;
+      font-size: 26px; }
+    .content .block ul {
+      margin-top: 55px; }
+      .content .block ul li {
+        height: 42px;
+        line-height: 42px;
+        margin-bottom: 20px; }
+      .content .block ul .one .second {
+        width: 366px;
+        float: left;
+        height: 42px; }
+        .content .block ul .one .second input {
+          font-size: 14px;
+          width: 175px;
+          height: 40px;
+          border: 1px solid #ccc;
+          border-radius: 5%;
+          float: left; }
+        .content .block ul .one .second img {
+          float: left;
+          margin-left: 22px;
+          margin-right: 15px; }
+        .content .block ul .one .second a {
+          color: #298cf6; }
+      .content .block ul .one .third {
+        padding-left: 10px; }
+      .content .block ul .two .second {
+        width: 366px;
+        float: left;
+        height: 42px; }
+        .content .block ul .two .second input {
+          font-size: 14px;
+          width: 100%;
+          height: 40px;
+          border: 1px solid #ccc;
+          border-radius: 3%; }
+      .content .block ul .two .third {
+        float: left;
+        padding-left: 10px;
+        font-size: 14px;
+        color: #333; }
+        .content .block ul .two .third img {
+          vertical-align: middle; }
+      .content .block ul .three .second {
+        width: 366px;
+        float: left;
+        height: 42px; }
+        .content .block ul .three .second input {
+          font-size: 14px;
+          height: 40px;
+          border: 1px solid #ccc;
+          border-radius: 3%; }
+        .content .block ul .three .second .write {
+          width: 176px;
+          float: left; }
+        .content .block ul .three .second .accept {
+          width: 166px;
+          background: #f4f4f4;
+          font-size: 16px;
+          color: #666;
+          float: right; }
+      .content .block ul .three .third {
+        padding-left: 10px; }
+    .content .block .confirm {
+      display: block;
+      width: 366px;
+      height: 48px;
+      background: #2288f6;
+      border-radius: 2%;
+      color: #fff;
+      font-size: 18px;
+      margin: 0 auto;
+      text-align: center;
+      line-height: 48px; }
+    .content .block .return {
+      width: 366px;
+      padding-top: 15px;
+      text-align: right;
+      margin: 0 auto;
+      color: #d9d9d9;
+      font-size: 14px;
+      padding-bottom: 100px; }

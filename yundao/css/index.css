@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0; }
+.box{
+	margin-left: -250px;
+}
+.box .logo {
+  padding-top: 30px;
+  padding-left: 390px; }
+.box .banner {
+  width: 100%;
+  margin-top: 12px;
+  margin-bottom: 46px;
+  float: left;
+  position: relative; }
+  .box .banner .content {
+    width: 340px;
+    height: 386px;
+    background: #fff;
+    float: right;
+    position: absolute;
+    top: 90px;
+    right: 240px; }
+    .box .banner .content h2 {
+      font-size: 20px;
+      color: #333;
+      text-align: center;
+      margin-top: 30px; }
+    .box .banner .content .slide {
+      width: 260px;
+      margin: 0 auto;
+      margin-top: 8px; }
+      .box .banner .content .slide .num {
+        width: 258px;
+        height: 26px;
+        font-size: 12px;
+        color: #fb0303;
+        background: #FFF6D2;
+        border: 1px solid #FFE57D;
+        text-align: center;
+        line-height: 26px; }
+      .box .banner .content .slide .name {
+        width: 260px;
+        height: 22px;
+        margin-top: 8px; }
+        .box .banner .content .slide .name .people {
+          float: left;
+          width: 28px;
+          padding-top: 2px;
+          border: 1px solid #ccc;
+          background: #F3F4F4;
+          text-align: center; }
+          .box .banner .content .slide .name .people img {
+            opacity: 0.5; }
+        .box .banner .content .slide .name input {
+          float: left;
+          width: 228px;
+          height: 26px;
+          border-top: 1px solid #ccc;
+          border-bottom: 1px solid #ccc;
+          border-right: 1px solid #ccc;
+          color: #ccc;
+          font-size: 14px; }
+      .box .banner .content .slide .clearfix:after {
+        content: '';
+        display: block;
+        clear: both; }
+      .box .banner .content .slide .code {
+        width: 260px;
+        height: 26px;
+        margin-top: 20px; }
+        .box .banner .content .slide .code .code_img {
+          float: left;
+          width: 28px;
+          padding-top: 4px;
+          border: 1px solid #96C6F9;
+          background: #E9F3FD;
+          text-align: center; }
+          .box .banner .content .slide .code .code_img img {
+            opacity: 0.5; }
+        .box .banner .content .slide .code input {
+          float: left;
+          width: 228px;
+          height: 26px;
+          border-top: 1px solid #96C6F9;
+          border-bottom: 1px solid #96C6F9;
+          border-right: 1px solid #96C6F9;
+          color: #ccc;
+          font-size: 14px; }
+      .box .banner .content .slide .get {
+        margin-top: 24px; }
+        .box .banner .content .slide .get .left {
+          float: left; }
+          .box .banner .content .slide .get .left span {
+            color: #666;
+            font-size: 12px;
+            padding-left: 6px; }
+        .box .banner .content .slide .get .right {
+          float: right; }
+      .box .banner .content .slide .set {
+        margin-top: 16px;
+        width: 260px;
+        height: 36px;
+        text-align: center;
+        line-height: 36px;
+        background: #417EE7;
+        border-radius: 2px;
+        color: #fff; }
+      .box .banner .content .slide .new {
+        margin-top: 10px;
+        margin-left: 176px;
+        color: #2388F6; }
+        .box .banner .content .slide .new span {
+          text-decoration: underline; }
+      .box .banner .content .slide .div1 {
+        width: 260px;
+        height: 3px;
+        border-radius: 0 0 2px 2px;
+        background: #417EE7;
+        margin-top: 30px; }
+      .box .banner .content .slide .new1 {
+        margin-top: 10px;
+        margin-left: 176px;
+        color: #363636; }
+        .box .banner .content .slide .new1 span {
+          text-decoration: underline; }
+.box .pp {
+  text-align: center;
+  padding-top: 46px;
+  color: #777777; }
+
+/*# sourceMappingURL=index.css.map */

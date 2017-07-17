@@ -1,0 +1,272 @@
+.registhome-banner{
+	height: 560px;
+	background:url(../img/banner.png) no-repeat center center;
+	/*background-size: 100%;*/
+	position: relative;
+	margin-bottom: 64px;
+}
+
+.registhome-banner div{
+	width: 600px;
+	height: 232px;
+	/*background:red;*/
+	position: absolute;
+	left:50%;
+	bottom:0px;
+	
+}
+
+.registhome-banner div p{
+	height: 90px;
+	font-size: 22px;
+	color: #ffffff;
+	font-family:"犀利" ;
+	line-height: 34px;
+	
+}
+.registhome-banner div span{
+	font-size: 24px;
+	color: #ffffff;
+	font-family:"锐利" ;
+	display: block;
+	width: 240px;
+	height: 68px;
+	background: url(../img/red.png) no-repeat;
+	text-align: center;
+	line-height: 68px;
+	margin-bottom: 60px;
+}
+
+.registhome-fixed{
+	width: 46px;
+	height: 156px;
+	background:#ff6600;
+	border-radius: 5px;
+	position: fixed;
+	top:45%;
+	right: 0px;
+	z-index: 5;
+}
+.registhome-fixed div{
+	width: 46px;
+	height: 50px;
+	background: #ffffff;
+	border-radius: 5px 5px 0 0;
+	text-align: center;
+	position: relative;
+}
+.registhome-fixed div img:nth-of-type(1){
+	margin: 18px 10px;
+	
+}
+.registhome-fixed div img:nth-of-type(2){
+	position: absolute;
+	top:50px;
+	left:20px;	
+}
+.registhome-fixed p{
+	width: 18px;
+	margin: 0 auto;
+	font-size: 18px;
+	color: #ffffff;
+	font-family:"犀利" ;
+	margin-top: 10px;
+}
+.registhome-content{
+	width: 100%;
+	
+}
+.registhome-terrace{
+	width: 1200px;
+	height: auto;
+	margin: 0 auto;
+	position: relative;
+
+}
+.registhome-terrace .bor{
+	width: 1002px;
+	height: 1px;
+	border-top:1px #ccc solid;
+	margin: 0 auto;
+}
+.registhome-terrace-tit{
+	width: 124px;
+	text-align: center;
+	background: #fff;
+	padding: 0px 20px;
+	position: absolute;
+	left:520px;
+	top:-12px;
+
+}
+.registhome-terrace-tit h3{
+	font-size: 24.22px;
+	color: #333;
+	font-family:"犀利" ;
+	font-weight: bold;
+	margin-bottom:10px ;
+}
+.registhome-terrace-tit span{
+	font-size: 12px;
+	color: #707070;
+	font-family:"犀利" ;
+}
+
+.registhome-terrace-con{
+	width: 1200px;
+	/*background: pink;*/
+	margin-top: 50px;
+	
+}
+.registhome-terrace-con1{
+	width: 260px;
+	padding-bottom: 80px;
+	margin-right: 52px;
+	float: left;
+	
+}
+.registhome-terrace-con1>div{
+	width: 260px;
+	height: 260px;
+	background: #f6f6f6;
+	margin-right: 54px;
+	text-align: center;
+	border-radius: 10px;
+}
+.registhome-terrace-con1>div img{
+	margin: 56px 0 38px;
+}
+.registhome-terrace-con1>div p{
+	font-size: 20px;
+	color: #333;
+	font-family:"犀利" 
+	
+}
+.registhome-terrace-con1>p{
+	line-height: 52px;
+	font-size: 18px;
+	color: #333;
+	font-weight: bold;
+	font-family:"锐利"; 
+	margin-left:15px;
+	
+}
+.registhome-terrace-con1>span{
+	font-size: 14px;
+	color: #666;
+	font-family:"锐利" ;
+	line-height: 22px;
+}
+.conlast{
+	float: right;
+	margin-right:0px;
+}
+
+.registhome-service{
+	background: #fafafa;
+	padding-top:64px;
+}
+.registhome-service-tit{
+	width: 1200px;
+	/*background: pink;*/
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 70px;
+}
+.registhome-service-con{
+	width: 1200px;
+	/*background: red;*/
+	margin: 0 auto;
+	padding-top: 66px;
+	padding-bottom: 80px;
+}
+.registhome-service-con1{
+	width: 228px;
+	height: 432px;
+	border:1px solid #e7e8e9;
+	background: #fff;
+	padding-bottom: 40px;
+	position: relative;
+	margin-right: 12px;
+	float: left;
+}
+
+.registhome-service-con1 img{
+	margin: 46px 24px 90px 24px;
+	position: relative;
+}
+
+.registhome-service-con1>div{
+
+	width: 170px;
+	margin: 0 auto;
+	height: 74px;
+	/*background: pink;*/
+	overflow: hidden;
+}
+.registhome-service-con1>div p{
+	font-size: 18px ;
+	font-family: "锐利";
+	color: #333;
+	font-weight: bold;
+	line-height: 52px;
+	text-align: center;
+	
+}
+.registhome-service-con1>div>span{
+	font-size: 14px ;
+	font-family: "锐利";
+	color: #666;
+	display: block;
+	line-height: 20px;
+}
+.registhome-service-con1:nth-of-type(5){
+	margin-right: 0;
+	float: right;
+}
+
+.registhome-partner{
+	width: 1200px;
+	margin: 0 auto;
+	padding: 94px 0px 118px;
+	/*background: pink;*/
+}
+
+.registhome-partner .left{
+	float: left;
+}
+
+.registhome-partner .right{
+	float: right;
+	width: 424px;
+	margin-right: 95px;
+	/*background: red;*/
+	padding-top: 92px;
+	
+}
+.registhome-partner .right span{
+	font-size: 18px;
+	color: #333;
+	line-height: 30px;
+}
+
+.registhome-partner .right p{
+	font-size: 30px;
+	color: #2281ef;
+	line-height: 45px;
+}
+
+.registhome-partner .right img{
+	margin-top: 40px;
+	margin-left: 14px;
+}
+
+.go>img{
+	transform: translateY(-100px);
+	
+}
+
+.go>div{
+	transform: translateY(-80px);
+	height: 180px;
+}
